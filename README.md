@@ -26,7 +26,7 @@ How to train ocrnet_hr48 on cityscape
 
 # Sample result  
 Cityscapes:  
-.\work_dirs\ocrnet_hr48_512x1024_40k_cityscapes_1\20220207_215753.log 
+.\work_dirs\ocrnet_hr48_512x1024_40k_cityscapes_1\20220207_215753.log    
 Corresponding model pth     
 [ocrnet_hr48_512x1024_40k_cityscapes](https://drive.google.com/file/d/1P6QVg-cxX44PdQbL0RiqbhtCkh6Ug1t9/view?usp=sharing)
 
