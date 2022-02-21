@@ -31,7 +31,11 @@ Corresponding model pth
 .\work_dirs\ocrnet_hr48_512x1024_40k_cityscapes_1\iter_40000.pth  
 
 # Other logs
-
+.\work_dirs/deeplabv3_r50-d8_512x1024_40k_cityscapes_0.1_0.125_inbatch\20210806_032608.log
+.\work_dirs/fcn_hr48_512x1024_40k_cityscapes/20210815_150637.log
+.\work_dirs/ocrnet_hr48_512x1024_40k_cityscapes_0.5_0.25/20210811_074757.log
+.\work_dirs/ocrnet_hr48_512x512_80k_ade20k/20210915_081129.log
+.\work_dirs/upernet_swin_small_patch4_window7_512x512_160k_ade20k_pretrain_224x224_1K/20210911_224103.log
 
 
 # model pth
