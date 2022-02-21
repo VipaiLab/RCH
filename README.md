@@ -24,9 +24,10 @@ To obtain a full-precision model, please refer train.py.
 How to train ocrnet_hr48 on cityscape   
 ./tools/dist_train.sh ./configs/ocrnet/ocrnet_hr48_512x1024_40k_cityscapes.py 8 
 
-# log result
+# sample result
 Cityscapes:
 .\work_dirs\ocrnet_hr48_512x1024_40k_cityscapes_1
+Corresponding model pth
 .\work_dirs\ocrnet_hr48_512x1024_40k_cityscapes_1\iter_40000.pth
 
 # Other logs
