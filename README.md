@@ -5,7 +5,7 @@
 ![image](https://github.com/VipaiLab/RCH/blob/main/images/model.png)
 
 ### Results
-Network|Encoder|Iteration|Train|Test|&#929|&#932|mIoU(log)|pth|comments
+Network|Encoder|Iteration|Train|Test|$\rho$|$\tau$|mIoU(log)|pth|comments
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 OCRNet|HRNet-W48|40000|train set|val set|0.9|0.5|[82.24](https://github.com/VipaiLab/RCH/blob/main/log_files/ocr_hr48_0.5_0.9.log)|[pth](https://drive.google.com/file/d/1jlccpeFoFE7eOBx7f3463-qp9wwG5PUB/view?usp=sharing)
 OCRNet|HRNet-W48|40000|train set|val set|0.9|0.5|[82.29](https://github.com/VipaiLab/RCH/blob/main/log_files/reproduce.log)|[pth](https://drive.google.com/file/d/1x0riBwzCpiFSLJrRJ6hJTSZ7hm2jm_G1/view?usp=sharing)|Reproduced
