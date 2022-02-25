@@ -20,8 +20,8 @@ torchvision
 visdom   
 numpy   
 pillow   
-scikit-learn
-For the GPUs, we use 8 NVIDIA TITAN X(P) GPUs
+scikit-learn  
+For the GPUs, we use 8 NVIDIA TITAN X(P) GPUs.
 
 ### Usage
 
