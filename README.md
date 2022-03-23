@@ -1,5 +1,6 @@
 # RCH
 **code** for our paper "Renovate Yourself: Calibrating Feature Representation of Misclassified Pixels for Semantic Segmentation"
+**the corresponding article**(https://github.com/VipaiLab/RCH/blob/main/Renovate%20Yourself%20Calibrating%20Feature%20Representation%20of%20Misclassified%20Pixels%20for%20Semantic%20Segmentation.pdf)
 
 ### PipleLine of RCH
 ![image](https://github.com/VipaiLab/RCH/blob/main/images/model.png)
